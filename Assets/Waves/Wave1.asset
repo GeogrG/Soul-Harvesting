@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fad374bd1b314d4abec925370553bc7, type: 3}
+  m_Name: Wave1
+  m_EditorClassIdentifier: 
+  soulPrefab: {fileID: 4927472913461913966, guid: 4ce75b2368d734a67b99c86f42b14b1b, type: 3}
+  wayPrefab: {fileID: 1285077490675359184, guid: f132e46eb49bb49ada91882d91903649, type: 3}
+  timeBetweenSpawns: 2
+  randomness: 0.5
+  numOfSouls: 3
+  moveSpeed: 1

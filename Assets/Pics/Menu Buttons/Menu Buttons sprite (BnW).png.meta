@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: eeabc866fe4c646c7b31582535133f91
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 834
+        width: 601
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76691a018a86e44afa499bc86855e1f5
+      internalID: 1569117566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 834
+        width: 601
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3ac7207dddd4df18a17dbe40163c6a
+      internalID: 1540321176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_2
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 834
+        width: 602
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abfe888c8c654a769fc10091632adce
+      internalID: -1890166114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_3
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 834
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101d548c8a295400d99fb481012d16eb
+      internalID: 1897369820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_4
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 834
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5237bb0f69f134456aac1d235294f9fe
+      internalID: 183811436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 601
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54a791c220014593861982b9157a088
+      internalID: -1079785291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 626
+        width: 601
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32178da5ce218404eab8c35cc79b7fca
+      internalID: -2027906959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_7
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 626
+        width: 602
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbc73799d5b54fc29a5037de8ca9a82
+      internalID: -456562118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_8
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 626
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b05df2fdf1e2481b9cd1b31fd77a548
+      internalID: 57770490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_9
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 626
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b834097b45c74f228e56abf4948ac15
+      internalID: 1199661389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 601
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147c1f82c94dc4fe59b9dd595e653ec7
+      internalID: -1999928947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 416
+        width: 601
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8793f94b8a2544f548a5632767363c52
+      internalID: 305633682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_12
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 416
+        width: 602
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98562bc006b44a6bd1a19428676a04
+      internalID: -1596434797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_13
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 416
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eae308a8e3240b7bf17fa17acbdd12
+      internalID: -162358338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_14
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 416
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d7a561620d24cb09495ad41439983d
+      internalID: 1385097573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 601
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f698c847174c2415daabbb367adc4a3d
+      internalID: 1918037756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_16
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 208
+        width: 601
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a9cf80042b74478b48ba48d568e824
+      internalID: -1518351619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_17
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 208
+        width: 602
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16ae4c50e48448cb106010d8f85804
+      internalID: 18376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_18
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 208
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2743fca84dee245cd8df44c0cc22483c
+      internalID: -716805949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_19
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 208
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c1173da3d8a41b7824ae6a60e70714
+      internalID: 101566601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 601
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0919b0390d749488d8ecd401c24813
+      internalID: -915669010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_21
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657c654997ec648da86807b994de03ab
+      internalID: 291820788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_22
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 0
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da3fe134237d4c18a6cd047343247ad
+      internalID: 1930712194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_23
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 0
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a3ff005785f40e888894986fec4fd1
+      internalID: 2074672766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_24
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 0
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fff655e608a41aaa23a0e5283f8817
+      internalID: -232902230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_25
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e116ee2897f764f9a884ce130f00bba9
+      internalID: -920228395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_26
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 0
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0896271915141719ae3cf0a59e02b1
+      internalID: -1661171247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_27
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 0
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b672a33ab14c4f77a7319540b9ec804
+      internalID: 890065108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Buttons sprite (BnW)_28
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377323901d5d748a99d71849697c4361
+      internalID: -1465389187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Menu Buttons sprite (BnW)_4: 183811436
+      Menu Buttons sprite (BnW)_9: 1199661389
+      Menu Buttons sprite (BnW)_0: 1569117566
+      Menu Buttons sprite (BnW)_6: -2027906959
+      Menu Buttons sprite (BnW)_8: 57770490
+      Menu Buttons sprite (BnW)_15: 1918037756
+      Menu Buttons sprite (BnW)_21: 291820788
+      Menu Buttons sprite (BnW)_19: 101566601
+      Menu Buttons sprite (BnW)_12: -1596434797
+      Menu Buttons sprite (BnW)_18: -716805949
+      Menu Buttons sprite (BnW)_11: 305633682
+      Menu Buttons sprite (BnW)_26: -1661171247
+      Menu Buttons sprite (BnW)_1: 1540321176
+      Menu Buttons sprite (BnW)_27: 890065108
+      Menu Buttons sprite (BnW)_23: 2074672766
+      Menu Buttons sprite (BnW)_20: -915669010
+      Menu Buttons sprite (BnW)_16: -1518351619
+      Menu Buttons sprite (BnW)_25: -920228395
+      Menu Buttons sprite (BnW)_28: -1465389187
+      Menu Buttons sprite (BnW)_2: -1890166114
+      Menu Buttons sprite (BnW)_24: -232902230
+      Menu Buttons sprite (BnW)_5: -1079785291
+      Menu Buttons sprite (BnW)_14: 1385097573
+      Menu Buttons sprite (BnW)_22: 1930712194
+      Menu Buttons sprite (BnW)_10: -1999928947
+      Menu Buttons sprite (BnW)_7: -456562118
+      Menu Buttons sprite (BnW)_17: 18376
+      Menu Buttons sprite (BnW)_3: 1897369820
+      Menu Buttons sprite (BnW)_13: -162358338
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
